@@ -1,0 +1,13 @@
+# Core Libraries
+streamlit==1.39.0
+pandas==2.2.3
+numpy==1.26.4
+
+# Machine Learning
+scikit-learn==1.6.1
+
+# Utilities
+pickle-mixin==1.0.2
+
+# Optional (for JSON handling, though stdlib has json)
+# jsonlib-python3==1.6.1
